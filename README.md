@@ -1,4 +1,4 @@
-# NarutoQuiz
+# Quizzy_Naruto
 
 A new Flutter project.
 
