@@ -1,7 +1,7 @@
-# quizz
+# NarutoQuiz
 
 A new Flutter project.
 
-## Getting Started
+# Demo
 
-This project is a starting point for a Flutter application.
+![Demo](assets/gifs/Quiz.gif)<br><br>
